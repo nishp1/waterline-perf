@@ -19,7 +19,7 @@ var User = Waterline.Collection.extend({
         last_name: 'string',
         email: 'string',
         phone: 'string',
-        address: 'address',
+        address: 'string',
         prop1: 'string',
         prop2: 'string',
         prop3: 'string',
